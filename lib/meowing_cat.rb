@@ -1,3 +1,3 @@
 class Cat
-  attr_accessor :name, :age
+  attr_accessor :name
 end
